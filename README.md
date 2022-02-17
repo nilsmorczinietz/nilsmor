@@ -5,8 +5,8 @@
 <h3> 💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions to our worlds tech problems.
-- 🎓 &nbsp; Studying Computer Science soon.
-
+- 🎓 &nbsp; High school class 11/12.
+- 🎓 &nbsp; Graduation expected in 2023.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
